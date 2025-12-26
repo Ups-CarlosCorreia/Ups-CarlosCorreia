@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/user-attachments/assets/e664616f-1632-40e0-9f91-78899dcc5413" width="180"/>
-
 # Hi, I'm Xiko 🦎
 
 I'm a university student in **Telecommunications and Computer Engineering**.  
@@ -21,5 +19,6 @@ This GitHub is where I store my projects and track my progress as I learn.
 - Learn good coding practices
 - Keep learning
 
-  
+<img align="right" src="https://github.com/user-attachments/assets/e664616f-1632-40e0-9f91-78899dcc5413" width="180"/>
+
 Thanks for visiting.
